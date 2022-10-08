@@ -12,6 +12,6 @@ export default function Layout({children}) {
         <footer>
             <p>Copyright 2022 Ernest Arutiunian</p>
         </footer>
-        </div>
+    </div>
   )
 }

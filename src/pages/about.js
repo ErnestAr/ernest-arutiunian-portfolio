@@ -8,6 +8,5 @@ export default function About() {
           <h2>About</h2>
           </div>
     </Layout>
-    
   )
 }
