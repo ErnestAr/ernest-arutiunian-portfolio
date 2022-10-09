@@ -14,6 +14,6 @@ inshort: Quick guide and search system dedicated to stocks and crypto.
 **Description**: "Trade Guide" is a web application with primary target audience of begginer investors who need help choosing the right investment opportunities. The app uses advanced finance API providers to give the user neccessary information about available stock options and crypto options, making the decision to invest easier. It summarises the most useful information and provides access to other resourses for user to explore.
 
 
-**Technologies**:JavaScript, HTML, CSS, Bootstrap, jQuery, Moment.js, Chart.js, Tailwind CSS, Google Fonts, CoinGeko API, Yahoo Finance API,GNewsAPI
+**Technologies**: JavaScript, HTML, CSS, Bootstrap, jQuery, Moment.js, Chart.js, Tailwind CSS, Google Fonts, CoinGeko API, Yahoo Finance API,GNewsAPI
 
-**Links**:
+**Links**: [Repository](https://github.com/ErnestAr/Trade_Guide), [Trade Guilde](https://trade-guide.netlify.app/)

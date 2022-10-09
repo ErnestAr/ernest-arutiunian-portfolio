@@ -25,7 +25,7 @@ export default function Projects({data}) {
           <div className={project}>
             {projects.map(project => (
                 <Link to = {"/projects" + project.frontmatter.slug} key = {project.id}>
-                    <div className={prjStyle(project.frontmatter.style)}>
+                  <div className={prjStyle(project.frontmatter.style)}>
                     <p>{project.frontmatter.stack}</p>
                     <h2>{project.frontmatter.title}</h2>
                     <p>{project.frontmatter.inshort}</p>

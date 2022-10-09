@@ -37,6 +37,7 @@
     padding: 2rem;
     background: linear-gradient(to right, rgb(102, 45, 140) 0%, rgb(237, 30, 121) 100%);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s !important;
+    text-shadow: rgb(0 0 0 / 30%) 0px 2px 10px;
 } 
 
 
@@ -51,6 +52,7 @@
   color: var(--theme-ui-colors-white);
   background: linear-gradient(to right, rgb(213, 133, 255) 0%, rgb(0, 255, 238) 100%);
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s !important;
+  text-shadow: rgb(0 0 0 / 30%) 0px 2px 10px;
 }
 
 .prj3 {
@@ -64,6 +66,7 @@
     color: var(--theme-ui-colors-white);
     background: linear-gradient(to right, rgb(0, 146, 68) 0%, rgb(252, 237, 33) 100%);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s !important;
+    text-shadow: rgb(0 0 0 / 30%) 0px 2px 10px;
 }
 
 

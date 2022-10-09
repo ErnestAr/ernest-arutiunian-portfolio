@@ -12,12 +12,12 @@ export default function Home({data}) {
     <Layout>
       <section className={header}>
         <div>
-          <h2>Home page</h2>
+          <h2>Hi! I'm Ernest Arutiunian</h2>
+          <p style ={{fontSize: '25px'}}>Full-Stack Web Developer based in ON, Canada</p>
           <Link className={btn} to="/projects">My projects</Link>
           </div>
           <GatsbyImage image={image} alt="Banner" />
       </section>
-      
     </Layout>
 )
 }
@@ -26,11 +26,7 @@ export const query = graphql`
 query Banner {
   file(relativePath: {eq: "banner.png"}) {
     childImageSharp {
-      gatsbyImageData(
-        layout: FULL_WIDTH
-        placeholder: BLURRED
-        formats: [AUTO, WEBP]
-        )
+      gatsbyImageData
     }
   }
 }`

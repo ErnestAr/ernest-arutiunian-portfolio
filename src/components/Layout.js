@@ -10,7 +10,7 @@ export default function Layout({children}) {
             {children}
         </div>
         <footer>
-            <p>Copyright 2022 Ernest Arutiunian</p>
+            <p>© 2022 Ernest Arutiunian. All Rights Reserved.</p>
         </footer>
     </div>
   )
