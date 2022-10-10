@@ -6,10 +6,19 @@
     font-size: 2em;
     font-weight: 400;
     margin-bottom: 40px;
+    color: rgba(164, 176, 176, 0.605);
   }
   .htmlstyle {
     margin-top: 40px;
   }
   .featured {
     margin-bottom: 40px;
+  }
+
+  .htmlstyle > h2 {
+    color: rgba(164, 176, 176, 0.605);
+    text-transform: uppercase;
+    font-size: 1.17em;
+    margin-top: 20px;
+    margin-bottom: 10px;
   }

@@ -8,6 +8,7 @@
   .portfolio > h3 {
     font-size: 2em;
     font-weight: 400;
+    color: rgba(164, 176, 176, 0.605);
   }
 
   .project {

@@ -13,10 +13,10 @@ export default function Home({data}) {
       <section className={header}>
         <div>
           <h2>Hi! I'm Ernest Arutiunian</h2>
-          <p style ={{fontSize: '25px'}}>Full-Stack Web Developer based in ON, Canada</p>
+          <p style ={{fontSize: '25px', color: "rgba(164, 176, 176, 0.605)"}}>Full-Stack Web Developer | UI/UX Designer</p>
           <Link className={btn} to="/projects">My projects</Link>
           </div>
-          <GatsbyImage image={image} alt="Banner" />
+          <GatsbyImage image={image} alt="Banner" style={{width: "700px", height: "700px"}}/>
       </section>
     </Layout>
 )
