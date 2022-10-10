@@ -21,7 +21,7 @@ export default function Projects({data}) {
     <Layout>
          <div className={portfolio}>
           <h2>Projects</h2>
-          <h3>Projects and Websites I've created</h3>
+          <h3>Apps and Websites I've created</h3>
           <div className={project}>
             {projects.map(project => (
                 <Link to = {"/projects" + project.frontmatter.slug} key = {project.id}>

@@ -1,0 +1,27 @@
+.header> h2 {
+    font-size: 3em;
+    margin-top: 80px;
+    text-shadow: ;
+  }
+
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: start;
+    
+    align-content: start
+  }
+
+  .item {
+    flex: 1 0 auto;
+    margin: 9px;
+  }
+
+  .ingrey {
+    color: rgba(164, 176, 176, 0.605);
+    text-transform: uppercase;
+  }
+
+  .tab { margin-left: 40px; }

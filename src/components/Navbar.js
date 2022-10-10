@@ -18,8 +18,8 @@ export default function Navbar() {
         <h3>Ernest Arutiunian</h3>
         <div className='links'>
             <Link to="/">Home  </Link>
-            <Link to="/about">About  </Link>
             <Link to="/projects">Projects  </Link>
+            <Link to="/about">About  </Link>
         </div>
     </nav>
   )

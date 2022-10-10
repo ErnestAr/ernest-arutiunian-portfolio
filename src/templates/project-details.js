@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/Layout'
 import { GatsbyImage} from "gatsby-plugin-image";
-import {details, featured, html} from "../styles/project-details.module.css"
+import {details, featured, htmlstyle} from "../styles/project-details.module.css"
 import { graphql } from 'gatsby';
 
 
@@ -18,7 +18,7 @@ export default function ProjectDetails({data}) {
             <div className={featured}>
                 <GatsbyImage image = {featuredImg.childImageSharp.gatsbyImageData} alt="project image"/> 
             </div>
-             <div className={html} dangerouslySetInnerHTML={{__html: html}}/> 
+             <div className={htmlstyle} dangerouslySetInnerHTML={{__html: html}}/> 
         </div>
     </Layout>
   )

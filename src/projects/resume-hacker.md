@@ -9,9 +9,6 @@ style: prj2
 inshort: Mobile friendly web application designed to create interactive resume for developers 
 ---
 
-### Create interactive resume with ease
-
-
 **Description**: Resume Hacker is an application that assists those who are interested in creating a personal resume. This application enables the user to create thier own personal resume by adding personal info. The user will have the ability to update and delete their accounts on this website.
 
 
