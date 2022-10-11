@@ -8,20 +8,66 @@
   .portfolio > h3 {
     font-size: 2em;
     font-weight: 400;
+    color: rgba(164, 176, 176, 0.605);
   }
 
-  .projectsst {
+  .project {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 80px;
     margin: 80px 20px;
   }
-  .projectsst h3 {
+  .project h3 {
     text-align: center;
     margin: 20px auto 0px;
     font-weight: 500;
   }
-  .projectsst p {
-    color: #ccc;
+  .project p {
+    color: rgb(255, 255, 255);
     margin-top: 4px;
+    
   }
+
+  .prj1 {
+    width: 275px;
+    height: 180px;
+    box-shadow: rgb(0 0 0 / 10%) 0px 10px 15px -3px, rgb(0 0 0 / 5%) 0px 4px 6px -2px;
+    position: relative;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    background: linear-gradient(to right, rgb(102, 45, 140) 0%, rgb(237, 30, 121) 100%);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s !important;
+    text-shadow: rgb(0 0 0 / 30%) 0px 2px 10px;
+} 
+
+
+.prj2 {
+  width: 275px;
+  height: 180px;
+  box-shadow: rgb(0 0 0 / 10%) 0px 10px 15px -3px, rgb(0 0 0 / 5%) 0px 4px 6px -2px;
+  position: relative;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  color: var(--theme-ui-colors-white);
+  background: linear-gradient(to right, rgb(213, 133, 255) 0%, rgb(0, 255, 238) 100%);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s !important;
+  text-shadow: rgb(0 0 0 / 30%) 0px 2px 10px;
+}
+
+.prj3 {
+    width: 275px;
+    height: 180px;
+    box-shadow: rgb(0 0 0 / 10%) 0px 10px 15px -3px, rgb(0 0 0 / 5%) 0px 4px 6px -2px;
+    position: relative;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    color: var(--theme-ui-colors-white);
+    background: linear-gradient(to right, rgb(0, 146, 68) 0%, rgb(252, 237, 33) 100%);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s !important;
+    text-shadow: rgb(0 0 0 / 30%) 0px 2px 10px;
+}
+
+
