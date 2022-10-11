@@ -10,7 +10,7 @@ inshort: Simplified web library for software developers to find needed tools.
 ---
 
 ## Description
- Coding Tool Hub (CTH) is a web application with the latest technologies and techniques used by developers around the world. on the applications developers will be exposed to many individual projects and technologies which can be used to help thier own developments. majority of the resources posted will come from other developers for develepors and manu issues they face while developing their personal projects.
+ "Coding Tool Hub (CTH)" is a web application with the latest technologies and techniques used by developers around the world. on the applications, developers will be exposed to many individual projects and technologies which can be used to help their developments. majority of the resources posted will come from other developers for developers and many issues they face while developing their projects.
 
 ## Technologies
  JavaScript, HTML, CSS, MySql, Sequelize, Node.js, Express.js, w3-schools css framework

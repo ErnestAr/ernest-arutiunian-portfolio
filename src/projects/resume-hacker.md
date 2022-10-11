@@ -10,7 +10,7 @@ inshort: Mobile friendly web application designed to create interactive resume f
 ---
 
 ## Description
- Resume Hacker is an application that assists those who are interested in creating a personal resume. This application enables the user to create thier own personal resume by adding personal info. The user will have the ability to update and delete their accounts on this website.
+ "Resume Hacker" is an application that assists those who are interested in creating a personal resume. This application enables the user to create their resume by adding personal info. The user will have the ability to update and delete their accounts on this website.
 
 ## Technologies
  HTML, CSS, Bootstrap, React, Material UI, MongoDb, Node.js Express.js, Express-Sessions, Mongoose, Bcrypt, GraphQl
